@@ -1,0 +1,1 @@
+Write a program to compute some statistics on a set of grades.
